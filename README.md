@@ -4,7 +4,7 @@
 ## Welcome! 👋
 
 Thanks for checking out this SpaceX Website Replica coding challenge #MadeWithBulma.
-
+![image](screenshot.png)
 
 ## The challenge
 
